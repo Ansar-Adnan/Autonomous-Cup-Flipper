@@ -21,7 +21,7 @@ Key Technologies and Skills
 
     Ultrasonic distance sensors
 
-    Soldering and electrical assembly
+    Electrical assembly
 
     3D printing with ABS
 
