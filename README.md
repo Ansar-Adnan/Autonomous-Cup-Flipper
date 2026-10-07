@@ -7,7 +7,7 @@ The machine uses four TT motors for movement, controlled through an L298N motor 
 I designed the buggy chassis, gripper, and rotating mechanism from scratch in SolidWorks. The design process involved repeated measurement, prototyping, fit testing, and mechanical refinement before producing the final parts. All structural components were fabricated using ABS filament through 3D printing.
 
 The completed system was successfully able to autonomously drive toward a cup, detect its position, stop at the appropriate distance, grip the cup, rotate it, release it, and complete the flip. The machine was also capable of flipping an overturned cup back to its original orientation.
-Key Technologies and Skills
+Key Technologies and Skills:
 
     SolidWorks CAD and engineering drawings
 
